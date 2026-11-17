@@ -13,14 +13,6 @@ Este repositório apresenta uma visão de arquitetura para um banco com produtos
 
 A escolha de cashback não está baseada em números de custo ou retorno, pois esses dados não foram fornecidos. A arquitetura atual fictícia é independente de qualquer banco real.
 
-## Consulta rápida
-
-| Pergunta | Local |
-|---|---|
-| Por que cashback e não conta de pagamentos? | [Decisão executiva](docs/01-contexto-e-decisao.md#recomendação-e-alternativas) |
-| Onde estão os silos e seus impactos? | [AS-IS fictício](docs/03-arquitetura-atual-as-is.md) |
-| Como será a integração alvo? | [TO-BE proposto](docs/04-arquitetura-alvo-to-be.md) |
-| Como ocorre a transição sem desligamento abrupto? | [Migração](docs/06-migracao-e-governanca.md) |
 
 ## Referências conceituais
 
