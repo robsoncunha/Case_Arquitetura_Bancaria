@@ -4,7 +4,7 @@
 
 ## Fatos fornecidos
 
-O banco, situado em São Paulo, oferece CDC, cartão de crédito, crédito pessoal, consignado e empréstimos com garantia. As capacidades foram construídas em silos, com baixo reaproveitamento. Conta de pagamentos e cashback com parcerias tiveram boa aceitação em testes, mas a direção pretende priorizar apenas um dos produtos. O estilo arquitetural vigente é microservices. O CTO sugere avaliar a aquisição de uma plataforma de core bancário.
+O banco, oferece os produtos CDC, cartão de crédito, crédito pessoal, consignado e empréstimos com garantia. As capacidades foram construídas em silos, com baixo reaproveitamento. Conta de pagamentos e cashback com parcerias tiveram boa aceitação em testes, mas a direção pretende priorizar apenas um dos produtos. O estilo arquitetural vigente é microservices. O CTO sugere avaliar a aquisição de uma plataforma de core bancário.
 
 O enunciado não informa resultados numéricos dos testes, custos, contratos, integração existente, indicadores ou nomes de sistemas. Esses dados devem ser levantados antes de uma decisão definitiva.
 
