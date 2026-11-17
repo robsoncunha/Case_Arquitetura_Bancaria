@@ -4,19 +4,6 @@
 
 Este repositório apresenta uma visão de arquitetura para um banco com produtos de crédito organizados em silos. A proposta prioriza um programa de cashback com parceiros e uma evolução gradual das capacidades do banco, mantendo o estilo de microservices informado no case.
 
-## Comece por aqui
-
-1. [Contexto, objetivos e decisão executiva](docs/01-contexto-e-decisao.md)
-2. [Problemas, capacidades e cadeia de valor](docs/02-arquitetura-de-negocio.md)
-3. [Arquitetura atual — AS-IS fictício](docs/03-arquitetura-atual-as-is.md)
-4. [Arquitetura alvo — TO-BE proposto](docs/04-arquitetura-alvo-to-be.md)
-5. [Requisitos, regras e rastreabilidade](docs/05-requisitos-e-rastreabilidade.md)
-6. [Arquiteturas intermediárias e plano de migração](docs/06-migracao-e-governanca.md)
-7. [TOGAF ADM, DDD e building blocks](docs/07-metodo-e-building-blocks.md)
-8. [Decisão arquitetural: produto e core bancário](decisoes/001-priorizacao-produto-e-core.md)
-
-Todos os diagramas estão em Mermaid dentro dos próprios arquivos Markdown. O GitHub pode renderizá-los diretamente.
-
 ## Como interpretar as informações
 
 - **Fato do case:** informação fornecida no enunciado.
