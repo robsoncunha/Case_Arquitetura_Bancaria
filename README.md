@@ -12,10 +12,3 @@ Este repositório apresenta uma visão de arquitetura para um banco com produtos
 - **Proposta:** recomendação sujeita à decisão das áreas responsáveis.
 
 A escolha de cashback não está baseada em números de custo ou retorno, pois esses dados não foram fornecidos. A arquitetura atual fictícia é independente de qualquer banco real.
-
-
-## Referências conceituais
-
-- [The Open Group — TOGAF e ArchiMate](https://help.opengroup.org/hc/en-us/articles/32115987894930-How-the-ArchiMate-Language-and-the-TOGAF-Standard-Complement-Each-Other)
-- [Banco Central do Brasil — contas de pagamento](https://www.bcb.gov.br/meubc/faqs/s/contas-de-pagamento)
-- [Martin Fowler — Strangler Fig](https://martinfowler.com/bliki/StranglerFigApplication.html)
