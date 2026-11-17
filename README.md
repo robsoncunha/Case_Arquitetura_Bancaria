@@ -2,7 +2,7 @@
 
 **Case de avaliação | Autor: Robson Cunha**
 
-Este repositório apresenta uma visão de arquitetura para um banco com produtos de crédito organizados em silos. A proposta prioriza um programa de cashback com parceiros e uma evolução gradual das capacidades do banco, mantendo o estilo de microservices informado no case.
+Este repositório apresenta uma visão de arquitetura para um banco com produtos de crédito. A proposta prioriza um programa de cashback com parceiros e uma evolução gradual das capacidades do banco, mantendo o principio de microserviços informado no case e arquitetura distribuida.
 
 ## Como interpretar as informações
 
