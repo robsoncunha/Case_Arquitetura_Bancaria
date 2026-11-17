@@ -21,14 +21,5 @@ A entrega foca a fase **A — Visão de Arquitetura**. As demais fases indicam c
 
 O ADM é iterativo: descobertas em dados, aplicações ou tecnologia podem alterar decisões anteriores.
 
-## Por que usar estas abordagens?
 
-- **ADM:** organiza visão, arquitetura, transição e governança conforme o escopo do case.
-- **DDD estratégico:** ajuda a separar responsabilidades de negócio e definir contratos entre contextos.
-- **DDD tático:** ajuda a explicitar regras e invariantes dentro de cada contexto.
-- **Microservices:** é uma restrição do case. A decomposição proposta começa por capacidades e contextos, seguida de validação de coesão, dados e autonomia operacional.
-- **Strangler Fig:** orienta a substituição gradual quando ela se mostrar necessária, preservando coexistência e reversão.
 
-## ABB e SBB
-
-Um **Architecture Building Block (ABB)** descreve uma capacidade ou componente lógico necessário à arquitetura. Um **Solution Building Block (SBB)** é uma solução concreta que realiza capacidades arquiteturais. Por exemplo, “gestão de cashback” é um ABB candidato; um serviço específico de recompensas, escolhido e implementado, pode ser um SBB. Veja a tabela de [blocos propostos](04-arquitetura-alvo-to-be.md#candidatos-a-contextos-e-building-blocks).
